@@ -1,4 +1,4 @@
-# Wara Wara Plaza Base64 Converter
+# Wara Wara Plaza Base64 Encoder
 This is a quick Python Script to convert a Base64 string taken from the Wara Wara Plaza XML file to a tga file,(Currently only the <content> string inside <painting>) or convert a tga file to xml
   
   # How do you use it?
