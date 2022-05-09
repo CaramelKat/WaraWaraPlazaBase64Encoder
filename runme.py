@@ -1,4 +1,4 @@
-import os, sys, struct, time, ssl, zlib, base64
+import os, sys, zlib, base64
 def mv2tga(filename):
     with open(filename) as f:
         data=f.read()
